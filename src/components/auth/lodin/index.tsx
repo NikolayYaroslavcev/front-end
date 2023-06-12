@@ -4,10 +4,10 @@ import {Greeting} from "./Greeting";
 
 export const LoginPage = () => {
     return (
-        <div>
+        <h1>
             LoginPage
             <Greeting name ='DoDik'/>
-        </div>
+        </h1>
     );
 };
 
